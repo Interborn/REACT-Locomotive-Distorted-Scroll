@@ -2,7 +2,8 @@
 
 This element was used to learn Locomotive Animations and Locomotive Scroll. The results will be used as a base for the Cadogy agency website. THIS PROJECT IS WAS NOT MADE TO BE MOBILE RESPONSIVE [the polished version will ;) ].
 
-![](https://i.gyazo.com/32ae5cd30c8c9fc5e2ba07a6de0b6a72.mp4)
+https://user-images.githubusercontent.com/106191331/226216145-1a662542-fd2d-43f7-a1dd-97c8bb9211cf.mp4
+
 
 
 # Getting Started with Create React App
