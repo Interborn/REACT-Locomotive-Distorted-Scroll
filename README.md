@@ -1,5 +1,7 @@
 #React Locomotive Distorted Scroll Effect
 
+This element was used to learn Locomotive Animations and Locomotive Scroll. The results will be used as a base for the Cadogy agency website. THIS PROJECT IS WAS NOT MADE TO BE MOBILE RESPONSIVE [the polished version will ;) ].
+
 
 
 # Getting Started with Create React App
