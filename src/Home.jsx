@@ -65,7 +65,7 @@ function Home() {
           <p className="text-[24px] mt-16 lg:max-w-[50ch]">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloremque optio maxime nemo illum ipsa amet saepe, numquam illo dolores, quae animi dolorum quam obcaecati adipisci minus hic eius exercitationem. Natus?</p>
         </div>
       </div>
-      <div className="grid-wrap max-w-[1400px] px-8 grid lg:grid-cols-3 grid-cols-2 gap-8 justify-center mx-auto">
+      <div className="grid-wrap px-8 grid lg:grid-cols-3 grid-cols-2 gap-8 justify-center mx-auto">
         <div className="left-column pointer-events-none" ref={leftColumnRef}>
           {leftChunk.map((blogpost, index) => (
             <GridItem key={blogpost.url} url={blogpost.url} description={blogpost.description} index={index} />
